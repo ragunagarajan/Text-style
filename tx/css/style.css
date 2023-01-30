@@ -1,0 +1,52 @@
+section {
+	border:3px solid black;
+}
+/* Text transform */
+.up {
+	text-transform:uppercase;
+}
+.lo {
+	text-transform:lowercase;
+}
+.cap {
+	text-transform:capitalize;
+}
+/* Text spacing */
+.king {
+	text-indent:50px;
+}
+.ash {
+	letter-spacing:6px;
+}
+.star {
+	line-height:20px;
+}
+.hero {
+	word-spacing:13px;
+}
+.zero {
+	white-space:wrap;
+}
+.ero {
+	white-space:nowrap;
+}
+/* Text shadow */
+.mega {
+	text-shadow:0 0 5px red;
+}
+.maka {
+	text-shadow:8px 0 2px green;
+}
+.ugo {
+	text-shadow:0 10px 0 yellow;
+}
+.dot {
+  text-align:center;
+  height:160px;
+  width:262px;
+  background-color:red;
+  margin:0 auto;
+  border-radius:50%;
+  box-shadow:0 26px 2px yellow;
+  padding:20px;
+}

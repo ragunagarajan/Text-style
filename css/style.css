@@ -1,0 +1,145 @@
+section {
+	border:3px solid black;
+}
+
+h1 {
+	text-align:center;
+	text-decoration: underline;
+}
+/* text color changing model */
+.text {
+	color:red;
+}
+
+/* Background color changing */
+.backs {
+	background-color:yellow;
+}
+/* text alligment */
+.blue {
+	text-align:right;
+}
+.pink {
+	text-align:left;
+}
+.white {
+	text-align:center;
+}
+.red {
+	text-align:justify;
+	width:900px;
+	border:2px solid grey;
+}
+.fun {
+	text-align-last: right;
+}
+.fan {
+	text-align-last: center;
+}
+.foon {
+	text-align-last: justify;
+}
+/* direction of the letter */
+.mani {
+	direction:rtl;
+}
+.moni {
+	direction: ltr;
+}
+/* unicode bdi */
+.mahe {
+	direction:rtl;
+	unicode-bidi:bidi-override;
+}
+/* vertical align */
+img.a {
+	vertical-align:text-top;
+}
+img.b {
+	vertical-align:text-bottom;
+}
+img.c {
+	vertical-align:sub;
+}
+img.d {
+	vertical-align:super;
+}
+/* Textdecoration line */
+.uli {
+	text-decoration:underline;
+	}
+.ovli {
+	text-decoration:overline;
+}
+.lieth {
+	text-decoration:line-through;
+}
+.uliovli {
+	text-decoration:underline overline;
+}
+/* Textdecoration color*/
+.uli1 {
+	text-decoration:underline;
+	text-decoration-color:red;
+}
+.ovli2 {
+	text-decoration:overline;
+	text-decoration-color:yellow;
+}
+.lieth3 {
+	text-decoration:line-through;
+	text-decoration-color:green;
+}
+.uliovli4 {
+	text-decoration:underline overline;
+	text-decoration-color:blue;
+}
+/* Text decoration style */
+.uli11 {
+	text-decoration:underline;
+	text-decoration-style:solid;
+}
+.ovli22 {
+	text-decoration:overline;
+	text-decoration-style:double;
+}
+.lieth33 {
+	text-decoration:line-through;
+	text-decoration-style:dotted;
+}
+.uliovli44 {
+	text-decoration:underline overline;
+	text-decoration-style:dashed;
+}
+.guru {
+	text-decoration:underline;
+	text-decoration-style:wavy;
+}
+/* Text decoration thickness */
+.ulis {
+	text-decoration:underline;
+	text-decoration-thickness:3px;
+	}
+.ovlis {
+	text-decoration:overline;
+	text-decoration-thickness:3px;
+}
+.lieths {
+	text-decoration:line-through;
+	text-decoration-thickness:3px;
+}
+.uliovlis {
+	text-decoration:underline overline;
+	text-decoration-thickness:3px;
+}
+/* short hand method */
+.fou {
+	text-decoration: underline dotted blue 5px;
+}
+a {
+	font-size:60px;
+	text-decoration:none;
+}	
+.moday {
+	text-align:center;
+}
